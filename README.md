@@ -1,61 +1,59 @@
-# [HTML5 Boilerplate](http://html5boilerplate.com)
+# HTML
 
-HTML5 Boilerplate is a professional front-end template for building fast,
-robust, and adaptable web apps or sites.
+HTML is the standard markup language for creating web pages and web applications. With HTML you can create your own website.
 
-This project is the product of many years of iterative development and combined
-community knowledge. It does not impose a specific development philosophy or
-framework, so you're free to architect your code in the way that you want.
+HTML is easy to learn - You will enjoy it!
 
-* Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-* Homepage: [http://html5boilerplate.com](http://html5boilerplate.com)
-* Twitter: [@h5bp](http://twitter.com/h5bp)
+HTML is free - You can download it for free!
 
+## What is HTML?
 
-## Quick start
+HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages.
 
-Choose one of the following options:
+HTML describes the structure of a Web page
 
-1. Download the latest stable release from
-   [html5boilerplate.com](http://html5boilerplate.com/) or a custom build from
-   [Initializr](http://www.initializr.com).
-2. Clone the git repo — `git clone
-   https://github.com/h5bp/html5-boilerplate.git` - and checkout the tagged
-   release you'd like to use.
+HTML consists of a series of elements
 
+HTML elements tell the browser how to display the content
 
-## Features
+HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
 
-* HTML5 ready. Use the new elements with confidence.
-* Cross-browser compatible (Chrome, Opera, Safari, Firefox 3.6+, IE6+).
-* Designed with progressive enhancement in mind.
-* Includes [Normalize.css](http://necolas.github.com/normalize.css/) for CSS
-  normalizations and common bug fixes.
-* The latest [jQuery](http://jquery.com/) via CDN, with a local fallback.
-* The latest [Modernizr](http://modernizr.com/) build for feature detection.
-* IE-specific classes for easier cross-browser control.
-* Placeholder CSS Media Queries.
-* Useful CSS helpers.
-* Default print CSS, performance optimized.
-* Protection against any stray `console.log` causing JavaScript errors in
-  IE6/7.
-* An optimized Google Analytics snippet.
-* Apache server caching, compression, and other configuration defaults for
-  Grade-A performance.
-* Cross-domain Ajax and Flash.
-* "Delete-key friendly." Easy to strip out parts you don't need.
-* Extensive inline and accompanying documentation.
+## What is HTML used for?
 
+HTML is used to create web pages.
 
-## Documentation
+HTML is the standard markup language for creating Web pages
 
-Take a look at the [documentation table of contents](doc/TOC.md). This
-documentation is bundled with the project, which makes it readily available for
-offline reading and provides a useful starting point for any documentation you
-want to write about your project.
+HTML describes the structure of a Web page
 
+HTML consists of a series of elements
 
-## Contributing
+HTML elements tell the browser how to display the content
 
-Anyone and everyone is welcome to [contribute](CONTRIBUTING.md). Hundreds of
-developers have helped make the HTML5 Boilerplate what it is today.
+HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+
+## HTML Editors
+
+There are many HTML editors to choose from. We recommend Notepad++.
+
+## HTML Basic
+
+HTML documents consist of two parts: the head and the body.
+
+The head contains meta information about the document.
+
+The body contains the visible page content.
+
+The following example shows the basic structure of an HTML document:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<p>Hello</p>
+</body>
+</html>
+```
